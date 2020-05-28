@@ -7,3 +7,5 @@ For further information, please contact taoli@nyu.edu
 * Recap for linear algebra
 2. Exercise serise 2 (SW_HW2.ipynb)
 * Simulation for the consensus algorithm using Euler forward difference
+3. Exercise series 3 (SW_HW3.ipynb)
+* Formation control
